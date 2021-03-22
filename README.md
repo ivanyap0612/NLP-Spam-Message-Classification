@@ -17,7 +17,7 @@ Some common techniques of Natural Language Processing(NLP) has been applied:
 - Bag of words
 - Term frequency inverse document frequency (TF-IDF)
 
-6 different models has been trained to classify unknown messages as spam or ham:
+6 different models have been trained to classify unknown messages as spam or ham:
 
 - AdaBoost Classifier
 - Multinomial Naive Bayes Classifier
