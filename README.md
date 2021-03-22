@@ -3,7 +3,7 @@
 ## Introduction
 In this project, the aim is to use the SMS Spam Collection dataset to perform text classification and build a prediction model that will accurately classify which texts are spam. Natural Language Processing(NLP) technique has been applied to classify the message as "spam" or "ham" correctly.
 
-## Dataset:
+## Dataset
 - [spam.csv](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
 SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. The files contain one message per line. Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text.
